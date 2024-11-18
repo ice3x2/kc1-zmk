@@ -5,7 +5,7 @@
 if SHIELD_QUEFRENCY_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Quefrency"
+    default "KC1"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
